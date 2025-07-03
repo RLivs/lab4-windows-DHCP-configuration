@@ -14,9 +14,6 @@ This lab demonstrates the full process of configuring a DHCP server on Windows S
 - **DNS Server:** `192.168.50.1`
 
 ---
-
-## Steps and Screenshots
-
 ## Steps and Screenshots
 
 | No. | Description                                                                 | Screenshot |
